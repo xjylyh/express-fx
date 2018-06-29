@@ -1,0 +1,27 @@
+{
+  "name": "express-fx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xjylyh/express-fx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xjylyh/express-fx/issues"
+  },
+  "homepage": "https://github.com/xjylyh/express-fx#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
